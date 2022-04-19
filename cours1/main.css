@@ -1,0 +1,26 @@
+/* style.css */
+body{
+  background: rgb(5,170,158);
+  color: whitesmoke;
+  font-size: 9px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Courier;
+  color: white;
+  font-weight: lighter;
+  font-size: 25px;
+}
+h2 {
+  font-family: Courier;
+  color: white;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
